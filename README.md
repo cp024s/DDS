@@ -50,14 +50,14 @@ An alarm sound is played to alert the individual when drowsiness is detected.
 The code continuously updates the EAR and displays it on the video feed for monitoring.
 
 ## Configuration
-You can adjust the EYE_AR_THRESH and EYE_AR_CONSEC_FRAMES constants to change the sensitivity of drowsiness detection.
+You can adjust the `EYE_AR_THRESH` and `EYE_AR_CONSEC_FRAMES` constants to change the sensitivity of drowsiness detection.
 
 Replace the alarm sound with your own MP3 file for a custom alarm.
-<br> <br>
+<br> <hr> <br>
 
-# JSON Explanation
+# JSON
 
-## Table of Contents
+# Table of Contents
 - Prerequisites
 - Getting Started
 - Node-RED Flow Overview
